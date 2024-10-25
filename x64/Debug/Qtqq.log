@@ -1,0 +1,202 @@
+﻿  moc TitleBar.h
+  BasicWindow.cpp
+  CCMainWindow.cpp
+  MsgWebView.cpp
+  ReceiveFile.cpp
+  SendFile.cpp
+  SkinWindow.cpp
+  TalkWindow.cpp
+  TalkWindowShell.cpp
+  TitleBar.cpp
+  UserLogin.cpp
+  WindowManager.cpp
+  main.cpp
+  moc_BasicWindow.cpp
+  moc_CCMainWindow.cpp
+  moc_ReceiveFile.cpp
+  moc_SendFile.cpp
+  moc_SkinWindow.cpp
+  moc_TalkWindow.cpp
+  moc_TalkWindowShell.cpp
+  moc_TitleBar.cpp
+  moc_UserLogin.cpp
+  moc_WindowManager.cpp
+  Qtqq.vcxproj -> D:\vs2017_Code\Qtqq\x64\Debug\Qtqq.exe
+
+项目性能摘要:
+     5485 毫秒 D:\vs2017_Code\Qtqq\Qtqq\Qtqq.vcxproj      1 次调用
+               5485 毫秒 Build                                      1 次调用
+
+目标性能摘要:
+        0 毫秒 Build                                      1 次调用
+        0 毫秒 MakeDirsForResourceCompile                 1 次调用
+        0 毫秒 BeforeResourceCompile                      1 次调用
+        0 毫秒 _ClCompile                                 1 次调用
+        0 毫秒 AfterClCompile                             1 次调用
+        0 毫秒 _BscMake                                   1 次调用
+        0 毫秒 SelectClCompile                            1 次调用
+        0 毫秒 SelectCustomBuild                          1 次调用
+        0 毫秒 MakeDirsForCl                              1 次调用
+        0 毫秒 FixupCLCompileOptions                      1 次调用
+        0 毫秒 _GenerateSatelliteAssemblyInputs           1 次调用
+        0 毫秒 ComputeReferenceCLInput                    1 次调用
+        0 毫秒 ComputeCLInputPDBName                      1 次调用
+        0 毫秒 Qt                                         1 次调用
+        0 毫秒 QtLeaveCriticalSection_FinalizeBuildStatus   1 次调用
+        0 毫秒 CreateSatelliteAssemblies                  1 次调用
+        0 毫秒 _Appverifier                               1 次调用
+        0 毫秒 QtQml                                      1 次调用
+        0 毫秒 QtQmlCreateItems                           1 次调用
+        0 毫秒 _Deploy                                    1 次调用
+        0 毫秒 GetCopyToOutputDirectoryXamlAppDefs        1 次调用
+        0 毫秒 GetCopyToOutputDirectoryItems              1 次调用
+        0 毫秒 _CopySourceItemsToOutputDirectory          1 次调用
+        0 毫秒 _CheckForCompileOutputs                    1 次调用
+        0 毫秒 QtQmlCache                                 1 次调用
+        0 毫秒 ResolvedXDCMake                            1 次调用
+        0 毫秒 AfterResourceCompile                       1 次调用
+        0 毫秒 _ResourceCompile                           1 次调用
+        0 毫秒 AfterBuildCompileEvent                     1 次调用
+        0 毫秒 _BuildCompileAction                        1 次调用
+        0 毫秒 _ALink                                     1 次调用
+        0 毫秒 _Link                                      1 次调用
+        0 毫秒 AfterLink                                  1 次调用
+        0 毫秒 ComputeLinkImportLibraryOutputsForClean    1 次调用
+        0 毫秒 MakeDirsForXdcMake                         1 次调用
+        0 毫秒 _XdcMake                                   1 次调用
+        0 毫秒 PreLinkEvent                               1 次调用
+        0 毫秒 DoLinkOutputFilesMatch                     1 次调用
+        0 毫秒 ComputeCLCompileGeneratedSbrFiles          1 次调用
+        0 毫秒 PrepareResourceNames                       1 次调用
+        0 毫秒 CreateCustomManifestResourceNames          1 次调用
+        0 毫秒 SplitResourcesByCulture                    1 次调用
+        0 毫秒 QtQmlSetModified                           1 次调用
+        0 毫秒 MakeDirsForBscMake                         1 次调用
+        0 毫秒 QtRccPass2_Link                            1 次调用
+        0 毫秒 QtRccPass2                                 1 次调用
+        0 毫秒 QtRccPass2_GetObjs                         1 次调用
+        0 毫秒 ComputeLinkInputsFromProject               1 次调用
+        0 毫秒 ComputeCLGeneratedLinkInputs               1 次调用
+        0 毫秒 ComputeCustomBuildOutput                   1 次调用
+        0 毫秒 ComputeManifestGeneratedLinkerInputs       1 次调用
+        0 毫秒 ComputeRCGeneratedLinkInputs               1 次调用
+        0 毫秒 ComputeRCOutputs                           1 次调用
+        0 毫秒 BeforeLink                                 1 次调用
+        0 毫秒 BuildLinkTraverse                          1 次调用
+        0 毫秒 BuildCompile                               1 次调用
+        0 毫秒 ComputeManifestInputsTargets               1 次调用
+        0 毫秒 CopyFilesToOutputDirectory                 1 次调用
+        0 毫秒 QtQmlCacheItem                             1 次调用
+        0 毫秒 BuildGenerateSourcesTraverse               1 次调用
+        0 毫秒 _SelectedFiles                             1 次调用
+        0 毫秒 PreBuildEvent                              1 次调用
+        0 毫秒 BeforeBuildGenerateSources                 1 次调用
+        0 毫秒 QtRccFilter                                1 次调用
+        0 毫秒 QtLeaveCriticalSection_InitializeBuildStatus   1 次调用
+        0 毫秒 _PrepareForReferenceResolution             1 次调用
+        0 毫秒 BeforeResolveReferences                    1 次调用
+        0 毫秒 QtEnterCriticalSection_FinalizeBuildStatus   1 次调用
+        0 毫秒 ResolveReferences                          1 次调用
+        0 毫秒 AfterResolveReferences                     1 次调用
+        0 毫秒 CopyFileToFolders                          1 次调用
+        0 毫秒 ResolveAssemblyReferences                  1 次调用
+        0 毫秒 AssignProjectConfiguration                 1 次调用
+        0 毫秒 ResolveSDKReferences                       1 次调用
+        0 毫秒 FinalizeBuildStatus                        1 次调用
+        0 毫秒 SetCABuildNativeEnvironmentVariables       1 次调用
+        0 毫秒 _CheckWindowsSDKInstalled                  1 次调用
+        0 毫秒 PlatformPrepareForBuild                    1 次调用
+        0 毫秒 _SplitProjectReferencesByFileExistence     1 次调用
+        0 毫秒 SetBuildDefaultEnvironmentVariables        1 次调用
+        0 毫秒 GetReferenceAssemblyPaths                  1 次调用
+        0 毫秒 GetFrameworkPaths                          1 次调用
+        0 毫秒 ExpandSDKReferences                        1 次调用
+        0 毫秒 _GetProjectReferenceTargetFrameworkProperties   1 次调用
+        0 毫秒 _Xsd                                       1 次调用
+        0 毫秒 ComputeMIDLGeneratedCompileInputs          1 次调用
+        0 毫秒 QtRccOverrideCpp                           1 次调用
+        0 毫秒 QtGetDefaultClCompile                      1 次调用
+        0 毫秒 PrepareForRun                              1 次调用
+        0 毫秒 QtVersion                                  1 次调用
+        0 毫秒 QtRccPrepare                               1 次调用
+        0 毫秒 QtQmlCachePrepare                          1 次调用
+        0 毫秒 PostBuildEvent                             1 次调用
+        0 毫秒 QtRccInit                                  1 次调用
+        0 毫秒 _BuildLinkAction                           1 次调用
+        0 毫秒 SetTelemetryEnvironmentVariables           1 次调用
+        0 毫秒 _PrepareForBuild                           1 次调用
+        0 毫秒 BuildLink                                  1 次调用
+        0 毫秒 AfterBuild                                 1 次调用
+        0 毫秒 QtTranslation                              1 次调用
+        0 毫秒 BeforeClCompile                            1 次调用
+        0 毫秒 BuildCompileTraverse                       1 次调用
+        0 毫秒 BuildGenerateSources                       1 次调用
+        0 毫秒 _BuildGenerateSourcesAction                1 次调用
+        0 毫秒 AfterBuildGenerateSourcesEvent             1 次调用
+        0 毫秒 AfterBuildGenerateSources                  1 次调用
+        0 毫秒 _Midl                                      1 次调用
+        0 毫秒 AfterMidl                                  1 次调用
+        0 毫秒 QtUicInit                                  1 次调用
+        0 毫秒 PrepareProjectReferences                   1 次调用
+        1 毫秒 RegisterOutput                             1 次调用
+        1 毫秒 QtRccFilterSetModified                     1 次调用
+        1 毫秒 QtMocInit                                  1 次调用
+        1 毫秒 InitializeBuildStatus                      1 次调用
+        1 毫秒 QtNatvis                                   1 次调用
+        1 毫秒 ResolveProjectReferences                   1 次调用
+        1 毫秒 GetResolvedWinMD                           1 次调用
+        1 毫秒 MakeDirsForMidl                            1 次调用
+        1 毫秒 QtUicSetModified                          10 次调用
+        1 毫秒 ComputeCLOutputs                           1 次调用
+        1 毫秒 ComputeLegacyManifestEmbedding             1 次调用
+        1 毫秒 _CheckForInvalidConfigurationAndPlatform   1 次调用
+        1 毫秒 ComputeCLCompileGeneratedXDCFiles          1 次调用
+        1 毫秒 MakeDirsForLink                            1 次调用
+        1 毫秒 AssignTargetPaths                          1 次调用
+        1 毫秒 _Manifest                                  1 次调用
+        2 毫秒 QtRccSetModified                           1 次调用
+        2 毫秒 QtUicPrepare                              10 次调用
+        2 毫秒 PrepareForBuild                            1 次调用
+        3 毫秒 QtMocSetModified                          21 次调用
+        3 毫秒 QtQmlCacheLoader                           1 次调用
+        3 毫秒 ComputeLinkSwitches                        1 次调用
+        3 毫秒 QtMocPrepare                              21 次调用
+        3 毫秒 WarnCompileDuplicatedFilename              1 次调用
+        4 毫秒 QtRcc                                      1 次调用
+        7 毫秒 QtPrepare                                  1 次调用
+        8 毫秒 QtEnterCriticalSection_InitializeBuildStatus   1 次调用
+       12 毫秒 QtMocOverrideCpp                          21 次调用
+       12 毫秒 QtRccSetDependencies                       1 次调用
+       16 毫秒 QtUic                                     10 次调用
+       19 毫秒 QtWorkPrepare                             32 次调用
+      127 毫秒 QtSetAdditionalOptions                     1 次调用
+      264 毫秒 QtWork                                     1 次调用
+      269 毫秒 QtMoc                                     21 次调用
+      464 毫秒 Link                                       1 次调用
+     4240 毫秒 ClCompile                                  1 次调用
+
+任务性能摘要:
+        0 毫秒 Message                                    3 次调用
+        0 毫秒 AssignCulture                              1 次调用
+        0 毫秒 AssignTargetPath                           6 次调用
+        0 毫秒 FindInList                                31 次调用
+        0 毫秒 GetOutOfDateItems                          1 次调用
+        0 毫秒 Touch                                      2 次调用
+        0 毫秒 Delete                                     1 次调用
+        0 毫秒 MSBuild                                    1 次调用
+        0 毫秒 CriticalSection                            6 次调用
+        0 毫秒 SetEnv                                     8 次调用
+        0 毫秒 AssignProjectConfiguration                 1 次调用
+        1 毫秒 MakeDir                                   10 次调用
+        1 毫秒 CreateProperty                            30 次调用
+        2 毫秒 ListQrc                                    1 次调用
+        2 毫秒 Expand                                     1 次调用
+        3 毫秒 HostTranslatePaths                        29 次调用
+        5 毫秒 ReadLinesFromFile                          2 次调用
+        7 毫秒 GetItemHash                               32 次调用
+       16 毫秒 WriteLinesToFile                          36 次调用
+       16 毫秒 QtRunTask                                  1 次调用
+       18 毫秒 Flatten                                   30 次调用
+      103 毫秒 QtRunWork                                  1 次调用
+      461 毫秒 Link                                       1 次调用
+     4236 毫秒 CL                                         2 次调用

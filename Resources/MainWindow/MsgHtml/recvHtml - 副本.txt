@@ -1,0 +1,7 @@
+function recvHtml(msg){  // 单独将这句话放在一个文件中的原因是因为Qt在双引号中包含双引号的情况是不支持的，我们
+                         // 需要将其单独放置在文件中，然后从文件中读取出来之后，这样Qt是支持的，这个文件存在
+						 // 的目的就是为了解决这个问题(因为其就是""中有"",其自身有""，我们放到程序中的时候
+						 // 还需要将其放到""中，这样就会出现""内部有""的情况)
+	$("#placeholder").append(external.msgLHtmlTmpl.format(msg));
+	window.scrollTo(0,document.body.scrollHeight); ;  
+};
